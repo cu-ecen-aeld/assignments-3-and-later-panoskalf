@@ -1,5 +1,4 @@
 #!/bin/bash
-#!/bin/bash
 # writer.sh as per assignment 1 instructions: 
 # https://www.coursera.org/learn/linux-system-programming-introduction-to-buildroot/supplement/bnixD/assignment-1-instructions
 #
